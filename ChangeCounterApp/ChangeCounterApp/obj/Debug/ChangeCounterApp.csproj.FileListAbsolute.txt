@@ -1,0 +1,9 @@
+H:\C#\ChangeCounterApp\ChangeCounterApp\bin\Debug\ChangeCounterApp.exe.config
+H:\C#\ChangeCounterApp\ChangeCounterApp\bin\Debug\ChangeCounterApp.exe
+H:\C#\ChangeCounterApp\ChangeCounterApp\bin\Debug\ChangeCounterApp.pdb
+H:\C#\ChangeCounterApp\ChangeCounterApp\obj\Debug\ChangeCounterApp.csprojResolveAssemblyReference.cache
+H:\C#\ChangeCounterApp\ChangeCounterApp\obj\Debug\ChangeCounterApp.changeCounter.resources
+H:\C#\ChangeCounterApp\ChangeCounterApp\obj\Debug\ChangeCounterApp.Properties.Resources.resources
+H:\C#\ChangeCounterApp\ChangeCounterApp\obj\Debug\ChangeCounterApp.csproj.GenerateResource.Cache
+H:\C#\ChangeCounterApp\ChangeCounterApp\obj\Debug\ChangeCounterApp.exe
+H:\C#\ChangeCounterApp\ChangeCounterApp\obj\Debug\ChangeCounterApp.pdb
